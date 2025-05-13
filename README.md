@@ -10,6 +10,7 @@ I'm passionate about crypto analytics, DeFi, and building tools to simplify web3
 
 ## 📊 My GitHub Stats
 ![Snake](dist/snake.svg)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rahullath.rahullath)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/rahullath)
