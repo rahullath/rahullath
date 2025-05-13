@@ -8,7 +8,8 @@ Building crypto analytics at [House of Web3](https://houseofweb3.io) | Singapore
 
 ## 📈 2025 Stats
 ![Commits](https://img.shields.io/badge/Commits-165-brightgreen)
-![Stats](https://github-readme-stats.vercel.app/api?username=rahullath&show_icons=true&theme=dracula&hide_rank=true)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Solana](https://img.shields.io/badge/Solana-Web3-green?logo=solana)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahullath&layout=compact&theme=dracula)
 
 ## 📫 Connect
