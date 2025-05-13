@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Rahul Lath
+# 🚀 Hi, I'm Rahul Lath
 
 > Product Lead & Full Stack Developer at [House of Web3](https://houseofweb3.io) | Web3 Developer | SEO Specialist
 
 I build tools that make crypto & blockchain technology more accessible and understandable to everyone.
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahullath&theme=neon" alt="GitHub Streak" /></a> 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullath&theme=neon&hide_border=true" alt="Streak Stats" /> </p>
+
 ## 🧠 Professional Experience
 
 **Product Lead & Full Stack Developer** @ [House of Web3](https://houseofweb3.io) *(April 2024 - Present)*
