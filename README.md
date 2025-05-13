@@ -5,8 +5,7 @@
 I build tools that make crypto & blockchain technology more accessible and understandable to everyone.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullath&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahullath&theme=neon&hide_border=true)](https://git.io/streak-stats) </p>
 
 ## 🧠 Professional Experience
 
