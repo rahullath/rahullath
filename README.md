@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Rahul Lath!
+Web3 fanatic at [House of Web3](https://houseofweb3.io) | Singapore 🇸🇬
 
-<!--
-**rahullath/rahullath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about crypto analytics, DeFi, and building tools to simplify web3.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: Python, TypeScript, JavaScript, C++
+- Tools: Solana, Dune Analytics, Certik, Google Gemini API
+- Focus: Crypto analytics, DeFi, TVL scoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Stats
+![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rahullath&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/rahullath)
+- [House of Web3](https://houseofweb3.io)
