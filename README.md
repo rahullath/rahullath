@@ -1,59 +1,94 @@
 # 👋 Hi, I'm Rahul Lath
 
-> Product Lead & Full Stack Developer at [House of Web3](https://how3.io) | Blockchain Enthusiast | SEO Specialist
+> Product Lead & Full Stack Developer at [House of Web3](https://houseofweb3.io) | Web3 Developer | SEO Specialist
 
-## 🚀 About Me
+I build tools that make crypto & blockchain technology more accessible and understandable to everyone.
 
-I'm a Web3 developer and product manager with experience in building crypto analytics platforms and decentralized applications. My passion lies at the intersection of blockchain technology, product development, and making complex crypto concepts accessible to everyone.
+![Profile Views](https://komarev.com/ghpvc/?username=rahullath&color=blueviolet)
 
-- 🔭 Currently leading development of [how3.io](https://how3.io), a crypto analytics platform designed to help retail investors understand project fundamentals
-- 🌱 Exploring MEV (Maximal Extractable Value) and advanced Ethereum development concepts
-- 🎓 BCA graduate from Christ University, Bangalore
-- 🌐 Based in Bengaluru, Karnataka
+## 🧠 Professional Experience
 
-## 💻 Tech Stack
+**Product Lead & Full Stack Developer** @ [House of Web3](https://how3.io) *(April 2024 - Present)*
+- Building platforms to simplify complex crypto concepts for global audiences
+- Developing standardized evaluation frameworks for crypto projects
+- Creating jargon-free explanations of key metrics and tokenomics
 
+**SEO Analyst & Technical Writer** @ [Wiingy](https://wiingy.com) *(Feb 2023 - Feb 2024)*
+- Increased daily impressions from 50k to 1M+ over 6 months
+- Created 100+ SEO-optimized educational resources and 40+ technical blogs
+- Implemented data-driven lead generation campaigns
+
+**Web3 Developer** @ [buildspace](https://buildspace.so) *(Aug 2023 - Oct 2023)*
+- Selected for an intensive program funded by Y Combinator and a16z
+- Built decentralized applications with smart contracts
+- Presented projects in a 3-day demo showcase
+
+## 💻 Development Focus
+
+```js
+const rahulLath = {
+  code: ['TypeScript', 'JavaScript', 'Python', 'Solidity', 'Java'],
+  frameworks: ['React', 'Next.js', 'Node.js', 'Flutter'],
+  blockchain: ['Ethereum', 'Polygon', 'Web3.js', 'Hardhat', 'IPFS', 'Ceramic', 'Livepeer'],
+  databases: ['MongoDB', 'Firebase', 'GraphQL'],
+  cloud: ['AWS', 'Docker'],
+  seo: ['Google Analytics', 'Search Console', 'Ahrefs', 'SurferSEO'],
+  currentlyLearning: ['MEV', 'Solana', 'zkRollups', 'AI Integration for Web3']
+};
 ```
-Frontend: React.js, Next.js, TypeScript, Tailwind CSS, JavaScript
-Backend: Node.js, Python, GraphQL
-Blockchain: Solidity, Web3.js, Ethereum, Hardhat, IPFS, Ceramic, Livepeer, Polygon
-Tools: Git, Docker, AWS, Firebase
-SEO: WordPress, Google Analytics, Search Console, Ahrefs
-```
 
-## 🏗️ Notable Projects
+# 🏗️ Featured Projects
 
-### [how3.io](https://how3.io)
-Leading end-to-end development of a comprehensive crypto analytics platform that simplifies project evaluation for retail investors. Built with Python, TypeScript, GraphQL, and Web3.js.
+### 🔍 [how3.io](https://houseofweb3.io)
+A comprehensive crypto analytics platform making project evaluation accessible to retail investors
+- **Tech:** Python, TypeScript, GraphQL, Web3.js
+- **Features:** Standardized evaluation frameworks across crypto categories, intuitive visualization of performance metrics
 
-### [Decentralized Streaming Platform](https://github.com/rahullath/torv3)
-Capstone project integrating Livepeer for decentralized video processing, IPFS for storage, and Ethereum smart contracts. Built with React.js, Next.js, and deployed on Polygon.
+### 📺 [Decentralized Streaming Platform (Torv)](https://github.com/rahullath/torv3)
+Web3 streaming platform built as part of my BCA capstone project
+- **Tech:** Livepeer, IPFS, Ethereum, React.js, Next.js, Polygon, Ceramic
+- **Features:** Decentralized video processing, distributed content storage, creator-focused monetization
 
-### [CryptoLens](https://github.com/rahullath/CryptoLens)
-A personal crypto analytics tool using free APIs from different data sources to analyze token performance and metrics.
+### 📊 [CryptoLens](https://github.com/rahullath/CryptoLens)
+Personal crypto analytics tool using free APIs to analyze token metrics
+- **Tech:** Python, RESTful APIs, Data Visualization
+- **Features:** Custom token analysis, metrics comparison, performance tracking
 
-### [EatAssured](https://github.com/rahullath/eatassured)
-Mobile application using Flutter and Firebase to track grocery expiration dates and reduce food waste through barcode scanning technology.
+### 🛒 [EatAssured](https://github.com/rahullath/eatassured)
+Mobile application to track grocery expiration dates and reduce food waste
+- **Tech:** Flutter, Firebase, Barcode Scanning
+- **Features:** Expiry notifications, charity donation integration, community sharing
 
-### [MeshOS](https://github.com/rahullath/MeshOS)
-Personal productivity system focused on optimizing workflows through code.
+### ⚙️ [MeshOS](https://github.com/rahullath/MeshOS)
+Personal productivity system with the tagline "fixing my life using code"
+- **Tech:** Next.js, TypeScript, Tailwind CSS
+- **Features:** Task management, habit tracking, personal analytics
 
-## 📊 GitHub Stats
+## 🛠️ Current Focus
 
-<a href="https://github.com/rahullath">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahullath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullath&layout=compact&langs_count=7&theme=dark"/>
-</a>
+- Building crypto analytics tools with custom scoring methodologies
+- Developing data pipelines for real-time project performance metrics
+- Creating jargon-free explanations of complex web3 concepts
+- Exploring DeFi protocol evaluation frameworks
 
-## 🔗 Connect With Me
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahullath/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahullath02@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://how3.io)
 
-## 📜 Certifications
+---
 
-- Ethereum Developer Degree: Senior - Build Your Own MEV Searcher Using Flashbots (LearnWeb3.io)
-- AWS Academy Cloud Foundations
-- Data Analysis with Python (freeCodeCamp)
-- DevOps with AWS
-- Become a Data Analyst & Data Scientist (LinkedIn)
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+</p>
