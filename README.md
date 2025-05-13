@@ -9,7 +9,7 @@ I'm passionate about crypto analytics, DeFi, and building tools to simplify web3
 - Focus: Crypto analytics, DeFi, TVL scoring
 
 ## 📊 My GitHub Stats
-![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rahullath&show_icons=true&theme=radical)
+![Snake](dist/snake.svg)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/rahullath)
