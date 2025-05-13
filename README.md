@@ -4,8 +4,7 @@
 
 I build tools that make crypto & blockchain technology more accessible and understandable to everyone.
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=rahullath&theme=neon)](https://git.io/streak-stats) 
-
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahullath&theme=neon" alt="GitHub Streak" /></a> 
 ## 🧠 Professional Experience
 
 **Product Lead & Full Stack Developer** @ [House of Web3](https://houseofweb3.io) *(April 2024 - Present)*
