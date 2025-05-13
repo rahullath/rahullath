@@ -2,7 +2,7 @@
 
 > Product Lead & Full Stack Developer at [House of Web3](https://houseofweb3.io) | Web3 Developer | SEO Specialist
 
-I build tools that make crypto & blockchain technology more accessible and understandable to everyone.
+I love technology that doesn't exploit. Trying my best to embrace the flaws of capitalism by using it to contribute meaningfully to the society. 
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullath&theme=neon&hide_border=true" alt="Streak Stats" /> </p>
 
@@ -45,8 +45,8 @@ A comprehensive crypto analytics platform making project evaluation accessible t
 - **Features:** Standardized evaluation frameworks across crypto categories, intuitive visualization of performance metrics
 
 ### 📺 [Decentralized Streaming Platform (Torv)](https://github.com/rahullath/torv3)
-Web3 streaming platform built as part of my BCA capstone project
-- **Tech:** Livepeer, IPFS, Ethereum, React.js, Next.js, Polygon, Ceramic
+Web3 streaming platform built as part of my BCA capstone project 
+- **Tech:** Livepeer, IPFS, Ethereum, React.js, Next.js, Polygon, Ceramic, Filecoin
 - **Features:** Decentralized video processing, distributed content storage, creator-focused monetization
 
 ### 📊 [CryptoLens](https://github.com/rahullath/CryptoLens)
@@ -56,11 +56,11 @@ Personal crypto analytics tool using free APIs to analyze token metrics
 
 ### 🛒 [EatAssured](https://github.com/rahullath/eatassured)
 Mobile application to track grocery expiration dates and reduce food waste
-- **Tech:** Flutter, Firebase, Barcode Scanning
+- **Tech:** Flutter, Firebase, Barcode Scanning, Google Places API
 - **Features:** Expiry notifications, charity donation integration, community sharing
 
 ### ⚙️ [MeshOS](https://github.com/rahullath/MeshOS)
-Personal productivity system with the tagline "fixing my life using code"
+productive OS, just fixing my life using code
 - **Tech:** Next.js, TypeScript, Tailwind CSS
 - **Features:** Task management, habit tracking, personal analytics
 
