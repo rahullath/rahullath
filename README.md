@@ -1,17 +1,16 @@
-# 👋 Hey, I'm Rahul Lath!
-Web3 fanatic at [House of Web3](https://houseofweb3.io) | Singapore 🇸🇬
+# 🚀 Rahul Lath - Web3 Fanatic
+Building crypto analytics at [House of Web3](https://houseofweb3.io) | Singapore 🇸🇬
 
-I'm passionate about crypto analytics, DeFi, and building tools to simplify web3.  
+## 💻 What I Do
+- 🪙 Crypto analytics with Python & TypeScript (**CryptoLens**, **static-gem**)
+- 📊 42 Dune dashboards for DeFi scoring (**dune-certik-how3**)
+- 🌐 Web3 dev (**solana-how3**, **how3.io**)
 
-## 🛠️ Skills
-- Languages: Python, TypeScript, JavaScript, C++
-- Tools: Solana, Dune Analytics, Certik, Google Gemini API
-- Focus: Crypto analytics, DeFi, TVL scoring
+## 📈 2025 Stats
+![Commits](https://img.shields.io/badge/Commits-165-brightgreen)
+![Stats](https://github-readme-stats.vercel.app/api?username=rahullath&show_icons=true&theme=dracula&hide_rank=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahullath&layout=compact&theme=dracula)
 
-## 📊 My GitHub Stats
-![Snake](dist/snake.svg)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rahullath.rahullath)
-
-## 📫 Connect with Me
+## 📫 Connect
 - [LinkedIn](https://linkedin.com/in/rahullath)
 - [House of Web3](https://houseofweb3.io)
