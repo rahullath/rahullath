@@ -6,7 +6,7 @@ I love technology that doesn't exploit. Trying my best to embrace the flaws of c
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullath&theme=neon&hide_border=true" alt="Streak Stats" /> </p>
 
-## 🧠 Professional Experience
+## 🧠 Professional Experience [Portfolio](https://rahul-showcase-website-project.lovable.app/)
 
 **Product Lead & Full Stack Developer** @ [House of Web3](https://houseofweb3.io) *(April 2024 - Present)*
 - Building platforms to simplify complex crypto concepts for global audiences
