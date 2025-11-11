@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Rahul Lath
 
-> MSc Financial Technology Student @ University of Birmingham [UoB](https://www.birmingham.ac.uk/) | Web3 Developer | SEO Specialist
+> MSc Financial Technology Student @ [University of Birmingham](https://www.birmingham.ac.uk/) | Web3 Developer | SEO Specialist
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullath&theme=neon&hide_border=true" alt="Streak Stats" /> </p>
 
@@ -57,7 +57,7 @@ Mobile application to track grocery expiration dates and reduce food waste
 - **Tech:** Flutter, Firebase, Barcode Scanning, Google Places API
 - **Features:** Expiry notifications, charity donation integration, community sharing
 
-### ⚙️ [MeshOS](https://github.com/rahullath/MeshOS)
+### ⚙️ [MeshOS](https://github.com/rahullath/MessyOS)
 productive OS, just fixing my life using code
 - **Tech:** Next.js, TypeScript, Tailwind CSS
 - **Features:** Task management, habit tracking, personal analytics
