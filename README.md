@@ -1,14 +1,12 @@
 # 🚀 Hi, I'm Rahul Lath
 
-> Product Lead & Full Stack Developer at [House of Web3](https://houseofweb3.io) | Web3 Developer | SEO Specialist
-
-I love technology that doesn't exploit. Trying my best to embrace the flaws of capitalism by using it to contribute meaningfully to the society. 
+> MSc Financial Technology Student @ University of Birmingham [UoB](https://www.birmingham.ac.uk/) | Web3 Developer | SEO Specialist
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullath&theme=neon&hide_border=true" alt="Streak Stats" /> </p>
 
 ## 🧠 Professional Experience [Portfolio](https://rahul-showcase-website-project.lovable.app/)
 
-**Product Lead & Full Stack Developer** @ [House of Web3](https://houseofweb3.io) *(April 2024 - Present)*
+**Product Lead & Full Stack Developer** @ [House of Web3](https://houseofweb3.io) *(April 2024 - July 2025)*
 - Building platforms to simplify complex crypto concepts for global audiences
 - Developing standardized evaluation frameworks for crypto projects
 - Creating jargon-free explanations of key metrics and tokenomics
