@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Rahul Lath
 
-> MSc Financial Technology Student @ [University of Birmingham](https://www.birmingham.ac.uk/) | Web3 Developer | SEO Specialist
+> MSc Financial Technology Student @ [University of Birmingham](https://www.birmingham.ac.uk/) | Web3 Developer | SEO Specialist 
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullath&theme=neon&hide_border=true" alt="Streak Stats" /> </p>
 
@@ -37,10 +37,15 @@ const rahulLath = {
 
 # 🏗️ Featured Projects
 
-### 🔍 [how3.io](https://how3.io)
+### 🔍 [how3.io](https://houseofweb3.com)
 A comprehensive crypto analytics platform making project evaluation accessible to retail investors
 - **Tech:** Python, TypeScript, GraphQL, Web3.js
 - **Features:** Standardized evaluation frameworks across crypto categories, intuitive visualization of performance metrics
+
+### ⚙️ [MeshOS](https://github.com/rahullath/MessyOS)
+just fixing my life using code
+- **Tech:** Astro JS, TypeScript, Tailwind CSS, Supabase
+- **Features:** Task management, habit tracking, personal analytics
 
 ### 📺 [Decentralized Streaming Platform (Torv)](https://github.com/rahullath/torv3)
 Web3 streaming platform built as part of my BCA capstone project 
@@ -57,10 +62,6 @@ Mobile application to track grocery expiration dates and reduce food waste
 - **Tech:** Flutter, Firebase, Barcode Scanning, Google Places API
 - **Features:** Expiry notifications, charity donation integration, community sharing
 
-### ⚙️ [MeshOS](https://github.com/rahullath/MessyOS)
-productive OS, just fixing my life using code
-- **Tech:** Next.js, TypeScript, Tailwind CSS
-- **Features:** Task management, habit tracking, personal analytics
 
 ## 🛠️ Current Focus
 
@@ -84,7 +85,7 @@ productive OS, just fixing my life using code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahullath/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahullath02@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://houseofweb3.io)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://messy-os.vercel.app)
 
 ---
 
