@@ -1,94 +1,33 @@
-# 🚀 Hi, I'm Rahul Lath
+### Hi, I'm Rahul 👋
 
-> MSc Financial Technology Student @ [University of Birmingham](https://www.birmingham.ac.uk/) | Web3 Developer | SEO Specialist 
+Data and fintech analyst who builds what he analyses. **MSc Financial Technology, University of Birmingham** (coursework complete; Big Data Management in Finance 71%, Programming for Data Science 70%). Founding Engineer at **traverse**.
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullath&theme=neon&hide_border=true" alt="Streak Stats" /> </p>
+📍 Birmingham, UK · 🟢 **Open to analyst, data, business analyst and fintech roles in Birmingham / West Midlands** (hybrid, remote or on-site) · Right to work in the UK, no sponsorship needed
 
-## 🧠 Professional Experience [Portfolio](https://rahul-showcase-website-project.lovable.app/)
-
-**Product Lead & Full Stack Developer** @ [House of Web3](https://houseofweb3.io) *(April 2024 - July 2025)*
-- Building platforms to simplify complex crypto concepts for global audiences
-- Developing standardized evaluation frameworks for crypto projects
-- Creating jargon-free explanations of key metrics and tokenomics
-
-**SEO Analyst & Writer** @ [Wiingy](https://wiingy.com) *(Feb 2023 - Feb 2024)*
-- Increased daily impressions from 50k to 1M+ over 6 months
-- Created 100+ SEO-optimized educational resources and 40+ technical blogs
-- Implemented data-driven lead generation campaigns
-
-**Web3 Developer** @ [buildspace](https://buildspace.so) *(Aug 2023 - Oct 2023)*
-- Selected for an intensive program funded by Y Combinator and a16z
-- Built decentralized applications with smart contracts
-- Presented projects in a 3-day demo showcase
-
-## 💻 Development Focus
-
-```js
-const rahulLath = {
-  code: ['TypeScript', 'JavaScript', 'Python', 'Solidity', 'Java'],
-  frameworks: ['React', 'Next.js', 'Node.js', 'Flutter'],
-  blockchain: ['Ethereum', 'Polygon', 'Web3.js', 'Hardhat', 'IPFS', 'Ceramic', 'Livepeer'],
-  databases: ['MongoDB', 'Firebase', 'GraphQL'],
-  cloud: ['AWS', 'Docker'],
-  seo: ['Google Analytics', 'Search Console', 'Ahrefs', 'SurferSEO'],
-  currentlyLearning: ['MEV', 'Solana', 'zkRollups', 'AI Integration for Web3']
-};
-```
-
-# 🏗️ Featured Projects
-
-### 🔍 [how3.io](https://houseofweb3.com)
-A comprehensive crypto analytics platform making project evaluation accessible to retail investors
-- **Tech:** Python, TypeScript, GraphQL, Web3.js
-- **Features:** Standardized evaluation frameworks across crypto categories, intuitive visualization of performance metrics
-
-### ⚙️ [MeshOS](https://github.com/rahullath/MessyOS)
-just fixing my life using code
-- **Tech:** Astro JS, TypeScript, Tailwind CSS, Supabase
-- **Features:** Task management, habit tracking, personal analytics
-
-### 📺 [Decentralized Streaming Platform (Torv)](https://github.com/rahullath/torv3)
-Web3 streaming platform built as part of my BCA capstone project 
-- **Tech:** Livepeer, IPFS, Ethereum, React.js, Next.js, Polygon, Ceramic, Filecoin
-- **Features:** Decentralized video processing, distributed content storage, creator-focused monetization
-
-### 📊 [CryptoLens](https://github.com/rahullath/CryptoLens)
-Personal crypto analytics tool using free APIs to analyze token metrics
-- **Tech:** Python, RESTful APIs, Data Visualization
-- **Features:** Custom token analysis, metrics comparison, performance tracking
-
-### 🛒 [EatAssured](https://github.com/rahullath/eatassured)
-Mobile application to track grocery expiration dates and reduce food waste
-- **Tech:** Flutter, Firebase, Barcode Scanning, Google Places API
-- **Features:** Expiry notifications, charity donation integration, community sharing
-
-
-## 🛠️ Current Focus
-
-- Building crypto analytics tools with custom scoring methodologies
-- Developing data pipelines for real-time project performance metrics
-- Creating jargon-free explanations of complex web3 concepts
-- Exploring DeFi protocol evaluation frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
-  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-</p>
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahullath/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahullath02@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://messy-os.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/rahullath/) · [Email](mailto:rahullath02@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-</p>
+#### Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**structural-inequality**](https://github.com/rahullath/structural-inequality) · [live console](https://structural-inequality.vercel.app) | MSc dissertation. Agent-based model of UK household wealth 2006–2025, calibrated to HBAI and Wealth and Assets Survey microdata. Incomes converged while wealth concentrated (top tenth 40.8% vs bottom half 9.7%); the labour share moves the gap far more than tax-and-benefit levers. | Python, pandas, ABM, D3 |
+| [**financial-fragility-clock**](https://github.com/rahullath/financial-fragility-clock) | Led a team project scoring market fragility 0–100 on Minsky's Hedge / Speculative / Ponzi scale. OLS and Random Forest models with walk-forward validation, SHAP and permutation importance, and dynamic-time-warping similarity to past crises. | Python, scikit-learn, statsmodels, React, D3, Vitest |
+| [**finnovator**](https://github.com/rahullath/finnovator): Maxwell Data ESG Navigator | Tests whether a company's ESG ratings can be trusted: rating divergence across providers, 10-K claims checked against Climate TRACE emissions, and a Placebo Index for firms whose ratings outrun their record. Presented at the UKFin+ Finnovator Hackathon, Imperial College London. | FastAPI, React/TS, Supabase, SEC EDGAR, LLM extraction |
+| [**tulsi-foods**](https://github.com/rahullath/tulsi-foods) · [live](https://api.tulsifoods.app) | Direct-ordering platform that moves a family restaurant off 27–32% aggregator commission. WhatsApp ordering bot with human takeover, web ordering, an admin panel, and POS and delivery API integrations. | Python, FastAPI, SQLite, Docker, Railway |
+| [**traverse**](https://github.com/rahullath/traverse) | Executive-function support app (founding engineer). Its planning engine builds each day backward from fixed commitments, adjusting for travel, energy and recovery time. | Astro, React, TypeScript, Supabase (Postgres + RLS), Vercel |
+| [**how3.io**](https://github.com/rahullath/how3.io) | Scoring engine for a retail crypto research product: safety, fair-value and earnings-quality scores benchmarked against sector peers. | Python, pandas |
+| [**DuneQueryRepo-how3**](https://github.com/rahullath/DuneQueryRepo-how3) | 42 Dune Analytics SQL dashboards scoring 14 crypto projects. | SQL, Dune |
+
+#### Experience
+- **Founding Engineer**, traverse (remote) · 2025–present
+- **Product Lead & Full Stack Developer**, House of Web3 · 2025
+- **Crypto Research Analyst**, House of Web3 · 2024
+- **SEO Analyst**, Wiingy · 2023–2024 (daily impressions 50k → 1m in 6 months)
+- **Web3 Developer**, buildspace (YC/a16z-funded programme) · 2023
+
+#### Toolkit
+**Data:** Python (pandas, scikit-learn), SQL (PostgreSQL, SQLite, Dune), R, Excel, Power BI, Tableau
+**Build:** TypeScript, React, Next.js, Astro, FastAPI, Node.js, Supabase, Docker, AWS, Vercel, Railway
+**Also:** LLM APIs (OpenAI, Gemini) and RAG, Solidity, Salesforce (certified), Jira
